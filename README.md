@@ -31,7 +31,7 @@ Features ready:
 * Add a new book
 
 To-do list:
-* List all books
+* None
 
 ## Status
 Project is: _finished_,
