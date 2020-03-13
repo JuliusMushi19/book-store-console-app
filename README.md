@@ -29,6 +29,10 @@ Since it was a simple app, there was not much setup required.
 ## Features
 Features ready:
 * Add a new book
+* List all books
+* Mark a book as read
+* Delete a book
+* Quit the app
 
 To-do list:
 * None
@@ -37,7 +41,7 @@ To-do list:
 Project is: _finished_,
 
 ## Inspiration
-Project based on online course I took with Udemy.
+Project based on online course I took on Udemy.
 
 ## Contact
 Created by Julius Mushi - feel free to contact me!
