@@ -21,7 +21,6 @@ The goal of this project is to show my portifolio to the world.
 * PyCharm
 * Python
 * sqlite3
-* JSON
 
 ## Setup
 Since it was a simple app, there was not much setup required.
