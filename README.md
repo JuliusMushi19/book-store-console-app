@@ -20,7 +20,7 @@ The goal of this project is to show my portifolio to the world.
 ## Technologies
 * PyCharm
 * Python
-* SQLite
+* sqlite3
 * JSON
 
 ## Setup
